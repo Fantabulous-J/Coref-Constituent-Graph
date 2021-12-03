@@ -1,0 +1,5 @@
+numpy==1.17.2
+torch==1.6.0+cpu
+pyhocon==0.3.51
+transformers==2.10.0
+scikit_learn==0.23.2
