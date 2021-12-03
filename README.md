@@ -1,4 +1,5 @@
-## Incorporating Constituent Syntax in Coreference Resolution
+# Incorporating Constituent Syntax in Coreference Resolution
+This repo provides the source code of our paper: Incorporating Constituent Syntax for Coreference Resolution accepted at AAAI 2022.
 
 ## Setup
 
