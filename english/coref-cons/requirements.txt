@@ -1,0 +1,8 @@
+torch==1.6.0+cu101
+tensorflow_gpu==1.15.0
+transformers==3.4.0
+dgl_cu101==0.5.2
+tqdm==4.48.2
+pyhocon==0.3.51
+numpy==1.19.1
+scikit_learn==0.23.2
